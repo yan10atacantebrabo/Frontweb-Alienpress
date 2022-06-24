@@ -1,0 +1,312 @@
+.product-content-container {
+    width: 1168px;
+    height: 2280px;
+    background-color: #CCC7C7;
+    border-radius: 13px;
+    margin-top: 46px;
+    margin-left: 91px;
+    flex-direction: row;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.product-content-container img {
+    margin-top: 111px;
+    margin-left: 149px;
+}
+
+.card-compra1 {
+    margin-left: 700px;
+    margin-top: -468px;
+}
+
+.descrição {
+    margin-top: 75px;
+    margin-left: 149px;
+    width: 800px;
+}
+
+.descrição h1 {
+    font-size: 28px;
+    font-weight: 900;
+}
+
+.descrição h2 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+
+.card-not01 {
+    height: 550px;
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.card-not01 img {
+    margin-top: 0px;
+    margin-left: 50px;
+}
+
+.card-not01 h1 {
+    font-size: 22px;
+    font-weight: 900;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card-not01 h2 {
+    font-size: 18px;
+    width: 350px;
+    font-weight: normal;
+    margin-top: 22px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.botton1 {
+    font-weight: normal;
+    margin-top: 24px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.botton2 {
+    font-weight: normal;
+    margin-top: 24px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.botton1 button {
+    width: 185px;
+    height: 37px;
+    border-radius: 15px;
+    background-color: #0029FF;
+    color: #fff;
+    border: #0029FF;
+    font-weight: bold;
+}
+
+.botton2 button {
+    width: 185px;
+    height: 33px;
+    background-color: #CCC7C7;
+    color: #0029FF;
+    border: 2px solid #0029FF;
+    font-weight: normal;
+}
+
+
+
+
+.card-not02 {
+    height: 550px;
+    width: 350px;
+    margin-left: 408.5px;
+    margin-top: -550px;
+}
+
+.card-not02 img {
+    margin-top: 0px;
+    margin-left: 50px;
+    height: 162px;
+}
+
+.card-not02 h1 {
+    font-size: 22px;
+    font-weight: 900;
+    width: 190px;
+    margin-left: 77px;
+}
+
+.card-not02 h2 {
+    font-size: 18px;
+    width: 260px;
+    font-weight: normal;
+    margin-top: 22px;
+    margin-left: 42px;
+}
+
+.botton01 {
+    font-weight: normal;
+    margin-top: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.botton02 {
+    font-weight: normal;
+    margin-top: 24px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.botton01 button {
+    width: 185px;
+    height: 37px;
+    border-radius: 15px;
+    background-color: #0029FF;
+    color: #fff;
+    border: #0029FF;
+    font-weight: bold;
+}
+
+.botton02 button {
+    width: 185px;
+    height: 33px;
+    background-color: #CCC7C7;
+    color: #0029FF;
+    border: 2px solid #0029FF;
+    font-weight: normal;
+}
+
+
+
+
+
+.card-not03 {
+    height: 550px;
+    width: 350px;
+    margin-left: 787px;
+    margin-top: -550px;
+}
+
+.card-not03 img {
+    margin-top: 0px;
+    margin-left: 50px;
+    height: 162px;
+}
+
+.card-not03 h1 {
+    font-size: 22px;
+    font-weight: 900;
+    width: 200px;
+    margin-left: 70px;
+}
+
+.card-not03 h2 {
+    font-size: 18px;
+    width: 205px;
+    font-weight: normal;
+    margin-top: 15px;
+    margin-left: 72px;
+}
+
+.botton001 {
+    font-weight: normal;
+    margin-top: 15px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.botton002 {
+    font-weight: normal;
+    margin-top: 24px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.botton001 button {
+    width: 185px;
+    height: 37px;
+    border-radius: 15px;
+    background-color: #0029FF;
+    color: #fff;
+    border: #0029FF;
+    font-weight: bold;
+}
+
+.botton002 button {
+    width: 185px;
+    height: 33px;
+    background-color: #CCC7C7;
+    color: #0029FF;
+    border: 2px solid #0029FF;
+    font-weight: normal;
+}
+.comentarios {
+    margin-top: 100px;
+    margin-left: 134px;
+    width: 398px;
+}
+
+.comentarios img {
+    margin-top: -325px;
+    margin-left: 440px;
+   
+}
+
+.comentarios h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.comentarios h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.comentarios h3 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.comentarios h4 {
+    color: #C19E41;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.comentarios h5 {
+    color: #C19E41;
+    font-size: 12px;
+    font-weight: 900;
+    width: 100px;
+    margin-top: 5px;
+}
+
+.comentarios input {
+    background-color: #CCC7C7;
+    border: 1px solid #CC00FF;
+    width: 398px;
+    height: 124px;
+    font-size: 24px;
+}
+
+.comentarios button {
+    background-color: #0029FF;
+    border: #0029FF;
+    color: #fff;
+    width: 85px;
+    height: 35px;
+    border-radius: 4px;
+    margin-top: -50px;
+    margin-left: 312px;
+}

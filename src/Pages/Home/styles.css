@@ -1,0 +1,224 @@
+.home-container {
+  width: 1366px;
+}
+
+.imagem-inicial {
+  margin-top: 58px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ola-novamente {
+  font-size: 36;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 600;
+  padding-top: 40px;
+  margin-left: 80px;
+}
+
+.ola-novamente h3 {
+  font-size: 36px;
+}
+
+.cards {
+  margin-left: -35px;
+  margin-top: 40px;
+}
+
+.content-container {
+  margin-top: 188px;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.content-container h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.content-container h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.content-container p {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.content-container h4 {
+  font-size: 24px;
+  font-weight: bolder;
+  color: #CC00FF;
+}
+
+.content-container img {
+  margin-top: -100px;
+  margin-left: 101px;
+}
+
+.inspiron {
+  margin-left: 823px;
+  margin-top: -410px;
+  width: 440px;
+}
+
+.inspiron p {
+  margin-bottom: 55px;
+  width: 440px;
+  font-size: 19px;
+  font-weight: 900;
+}
+
+.inspiron h2 {
+  margin-bottom: 32px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.inspiron h3 {
+  margin-bottom: 83px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.inspiron h4 {
+  width: 167px;
+  margin-left: 35px;
+  font-size: 24px;
+}
+
+.inspiron h5 {
+  font-size: 24px;
+  font-weight: bolder;
+  color: #CC00FF;
+  margin-left: 245px;
+  margin-top: -38.5px;
+  width: 159px;
+}
+
+.img-02 {
+  margin-top: 250px;
+  margin-left: 750px;
+}
+
+.note-gamers {
+  margin-top: -340px;
+  margin-left: 158px;
+  width: 440px;
+}
+
+.note-gamers p {
+  margin-bottom: 55px;
+  width: 372px;
+  font-size: 19px;
+  font-weight: 900;
+  margin-left: 31px;
+}
+
+.note-gamers h2 {
+  margin-bottom: 32px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.note-gamers h3 {
+  margin-bottom: 83px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.note-gamers h4 {
+  width: 167px;
+  margin-left: 35px;
+  font-size: 24px;
+}
+
+.note-gamers h5 {
+  font-size: 24px;
+  font-weight: bolder;
+  color: #CC00FF;
+  margin-left: 245px;
+  margin-top: -38.5px;
+  width: 159px;
+}
+
+.img-03 {
+    margin-top: 250px;
+    margin-left: 91px;
+    padding-bottom: 340px;
+    width: 372px;
+    height: 321px;
+}
+
+.acessorios {
+  margin-top: -482px;
+  margin-left: 823px;
+  margin-bottom: 150px;
+  width: 440px;
+}
+
+.acessorios p {
+  margin-bottom: 55px;
+  width: 372px;
+  font-size: 19px;
+  font-weight: 900;
+  margin-left: 31px;
+}
+
+.acessorios h2 {
+  margin-bottom: 32px;
+  margin-left: 44px;
+  width: 350px;
+}
+
+.acessorios h3 {
+  margin-bottom: 83px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.acessorios h4 {
+  width: 167px;
+  margin-left: 35px;
+  font-size: 24px;
+}
+
+.acessorios h5 {
+  font-size: 24px;
+  font-weight: bolder;
+  color: #CC00FF;
+  margin-left: 245px;
+  margin-top: -38.5px;
+  width: 159px;
+}
+
+.inspiron a {
+  text-decoration: none;
+}
+
+.note-gamers a {
+  text-decoration: none;
+}
+
+.acessorios a {
+  text-decoration: none;
+}

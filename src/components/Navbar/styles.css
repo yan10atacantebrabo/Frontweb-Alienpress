@@ -1,0 +1,33 @@
+.navbar {
+    height: 117px;
+    background-color: #000;
+    width: 1366px;
+}
+
+.Logo {
+    width: 100px;
+    height: 20px;
+}
+
+.imagem-logo {
+    margin-top: -13px;
+    padding-right: 12px;
+    padding-left: 50px;
+}
+
+.pesquisa input {
+    width: 506px;
+    margin-left: 200px;
+    height: 35px;
+    border-radius: 8px;
+    margin-right: 35px;
+}
+
+.login {
+    margin-left: 3px;
+}
+
+.carrinho {
+    margin-right: 53px;
+    margin-left: 185px;
+}

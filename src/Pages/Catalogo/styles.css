@@ -1,0 +1,334 @@
+.catalog-content img {
+    margin-top: 65px;
+}
+
+.text-content h2 {
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    width: 40px;
+}
+
+.text-content h3 {
+    margin-left: 65px;
+    margin-top: -25.6px;
+    font-size: 15px;
+    font-weight: 600;
+    width: 65px;
+}
+
+.text-content h4 {
+    margin-left: 135px;
+    margin-top: -26.8px;
+    font-size: 15px;
+    font-weight: 600;
+    width: 72px;
+}
+
+.text-2 h1 {
+    margin-left: 20px;
+    font-size: 38px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.text-2 p {
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    width: 370px;
+}
+
+.texto h5 {
+    margin-left: 321px;
+    margin-top: 36px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #7A1174;
+    width: 710px;
+}
+
+.cards{
+    width: 1366px;
+    padding-left: 35px;
+}
+
+.card-not001 {
+    height: 685px;
+    width: 413px;
+    margin-top: 80px;
+    margin-left: 23px;
+    background-color: #CCC7C7;
+    border-radius: 40px;
+}
+
+.card-not001 img {
+    margin-top: 45px;
+    margin-left: 162px;
+    width: 84px;
+    height: 152px;
+}
+
+.card-not001 h1 {
+    font-size: 22px;
+    font-weight: 900;
+    margin-top: 34px;
+    margin-left: 22px;
+}
+
+.card-not001 h2 {
+    font-size: 16px;
+    width: 400px;
+    font-weight: bolder;
+    margin-top: 22px;
+    margin-left: 22px;
+}
+
+.card-not001 h3 {
+    font-size: 16px;
+    width: 400px;
+    font-weight: bolder;
+    margin-top: 22px;
+    margin-left: 22px;
+}
+
+.card-not001 h4 {
+    font-size: 16px;
+    width: 400px;
+    font-weight: bolder;
+    margin-top: 22px;
+    margin-left: 22px;
+}
+
+.card-not001 h5 {
+    font-size: 16px;
+    width: 400px;
+    font-weight: bolder;
+    margin-top: 22px;
+    margin-left: 22px;
+}
+
+.card-not001 h6 {
+    font-size: 16px;
+    width: 400px;
+    font-weight: bolder;
+    margin-top: 22px;
+    margin-left: 22px;
+}
+
+.card-not001 p {
+    font-size: 16px;
+    width: 400px;
+    font-weight: bolder;
+    margin-top: 22px;
+    margin-left: 22px;
+}
+
+.botton10 {
+    font-weight: normal;
+    margin-top: 36px;
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.botton10 button {
+    width: 308px;
+    height: 52px;
+    border-radius: 15px;
+    background-color: #0029FF;
+    color: #fff;
+    border: #0029FF;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.card-not002 {
+    height: 685px;
+    width: 413px;
+    margin-left: 469px;
+    margin-top: -685px;
+    background-color: #CCC7C7;
+    border-radius: 40px;
+}
+
+.card-not002 img {
+    margin-top: 20px;
+    margin-left: 35px;
+    height: 157px;
+    width: 341px;
+}
+
+.card-not002 h1 {
+    font-size: 22px;
+    font-weight: 900;
+    margin-top: 40px;
+    margin-left: 22px;
+}
+
+.card-not002 h2 {
+    font-size: 16px;
+    width: 350px;
+    height: 74px;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-left: 22px;
+}
+
+.card-not002 h3 {
+    font-size: 16px;
+    width: 350px;
+    height: 74px;
+    font-weight: bolder;
+    margin-top: -30px;
+    margin-left: 22px;
+}
+
+.card-not002 h4 {
+    font-size: 16px;
+    width: 350px;
+    height: 74px;
+    font-weight: bolder;
+    margin-top: -30px;
+    margin-left: 22px;
+}
+
+.card-not002 h5 {
+    font-size: 16px;
+    width: 350px;
+    height: 74px;
+    font-weight: bolder;
+    margin-top: -30px;
+    margin-left: 22px;
+}
+
+.card-not002 h6 {
+    font-size: 16px;
+    width: 350px;
+    height: 74px;
+    font-weight: bolder;
+    margin-top: -30px;
+    margin-left: 22px;
+}
+
+.botton11 {
+    font-weight: normal;
+    margin-top: 15px;
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.botton11 button {
+    width: 308px;
+    height: 52px;
+    border-radius: 15px;
+    background-color: #0029FF;
+    color: #fff;
+    border: #0029FF;
+    font-weight: bold;
+    margin-top: -122px;
+}
+
+.card-not003 {
+    height: 685px;
+    width: 413px;
+    margin-left: 915px;
+    margin-top: -685px;
+    background-color: #CCC7C7;
+    border-radius: 40px;
+}
+
+.card-not003 img {
+    margin-top: 25px;
+    margin-left: 56.73px;
+    width: 287px;
+    height: 170px;
+}
+
+.card-not003 h1 {
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 24px;
+    margin-left: 80px;
+    width: 241px;
+    height: 83px;
+}
+
+.card-not003 h2 {
+    font-size: 16px;
+    width: 274px;
+    height: 77px;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-left: 75px;
+}
+
+.card-not003 h3 {
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: -40px;
+    margin-left: 75px;
+    width: 241px;
+    height: 83px;
+}
+
+.card-not003 h4 {
+    font-size: 16px;
+    width: 274px;
+    height: 77px;
+    font-weight: bolder;
+    margin-top: -60px;
+    margin-left: 75px;
+}
+
+.card-not003 h5 {
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: -60px;
+    margin-left: 75px;
+    width: 241px;
+    height: 83px;
+}
+
+.card-not003 h6 {
+    font-size: 16px;
+    width: 274px;
+    height: 77px;
+    font-weight: bolder;
+    margin-top: -30px;
+    margin-left: 75px;
+}
+
+.botton12 {
+    font-weight: normal;
+    margin-top: 31px;
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.botton12 button {
+    width: 308px;
+    height: 52px;
+    border-radius: 15px;
+    background-color: #0029FF;
+    color: #fff;
+    border: #0029FF;
+    font-weight: bold;
+    margin-top: 4px;
+}
+
+.cards2 {
+    padding-bottom: 80px;
+}
